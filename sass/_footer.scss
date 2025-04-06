@@ -40,7 +40,12 @@ footer {
             line-height: 28px;
             font-weight: 400;
             color: #fff;
-            margin-bottom: 44px;
+            margin-bottom: 28px;
+        }
+
+        .social {
+            display: flex;
+            gap: 26px;
         }
     }
 }
