@@ -1,0 +1,56 @@
+
+
+
+section-3 {
+    background-color: rgba(244, 246, 252, 1);
+    margin-top: 128px;
+}
+
+.wrapper-3 {
+    padding: 128px 0;
+
+    h3 {
+        font-size: 48px;
+        line-height: 64px;
+        font-weight: 600;
+        color: rgba(40, 41, 56, 1);
+        text-align: center;
+        margin-bottom: 48px;
+    }
+
+    .cards {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .card {
+        width: 296px;
+        height: 344px;
+        padding: 40px 64px;
+        background-color: #fff;
+
+        h4 {
+            font-size: 24px;
+            line-height: 36px;
+            font-weight: 500;
+            color: rgba(29, 33, 48, 1);
+            margin-top: 30px;
+            margin-bottom: 2px;
+            text-align: center;
+        }
+
+        p {
+            font-size: 16px; 
+            line-height: 28px;
+            font-weight: 400;
+            color: rgba(29, 33, 48, 1);
+            text-align: center;
+        }
+    }
+}
+
+
+
+
+
+
